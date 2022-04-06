@@ -22,6 +22,6 @@
 
 
 ## Используемые библиотеки
-*pandas*
-*numpy*
-*pymystem3*
+*pandas*,
+*numpy*,
+*pymystem3*,
