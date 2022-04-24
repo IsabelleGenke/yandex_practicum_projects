@@ -11,4 +11,4 @@
 Определить какие клиенты платежеспособные, а какие нет.
 
 ## Используемые библиотеки
-*pandas, numpy, matplotlib, seaborn, scipy*
+*pandas, numpy, mystem, counter*
